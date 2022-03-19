@@ -107,6 +107,12 @@ p{
     margin-bottom: 45px;
 }
 
+@media (max-width: 500px) {
+    .contenedor__img img {
+        margin-bottom: 39px;
+    }
+} 
+
 .contenedor__descripcion{
     background-color: white;
     padding: 10px 60px 30px 60px;
